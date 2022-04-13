@@ -2,7 +2,7 @@
 /**
  * add - Entry point
  * @a: number
- * @b: int type number
+ * @b: number
  * Description: computes the absolute value of an integer
  * Return: 0
  */
