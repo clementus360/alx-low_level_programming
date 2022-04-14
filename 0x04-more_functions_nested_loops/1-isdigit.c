@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isupper - Entry point
+ * _isdigit - Entry point
  * @c: number input
  * Description: checks for a digit (0 through 9)
  * Return: 0 or 1
