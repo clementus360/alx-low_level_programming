@@ -1,5 +1,5 @@
 #include "main.h"
-#include "_putchar.c"
+
 /**
  * print_square - Entry point
  * @size: number input
@@ -15,7 +15,7 @@ void print_square(int size)
 	{
 		for (b = 1; b <= size; b++)
 		{
-			_putchar('#');
+			_putchar('*');
 		}
 
 		_putchar('\n');
